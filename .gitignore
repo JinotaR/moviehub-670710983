@@ -7,6 +7,7 @@
 # API key ห้ามขึ้น GitHub
 .env
 .env.*.local
+.env.local
 
 # misc
 .DS_Store
